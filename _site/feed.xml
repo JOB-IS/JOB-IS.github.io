@@ -5,8 +5,8 @@
     <description>Always welcome to hit me us! 자비스의 기술 블로그입니다.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Wed, 07 Dec 2022 13:11:52 +0900</pubDate>
-    <lastBuildDate>Wed, 07 Dec 2022 13:11:52 +0900</lastBuildDate>
+    <pubDate>Wed, 07 Dec 2022 13:16:47 +0900</pubDate>
+    <lastBuildDate>Wed, 07 Dec 2022 13:16:47 +0900</lastBuildDate>
     <generator>Jekyll v3.9.2</generator>
     
   </channel>
